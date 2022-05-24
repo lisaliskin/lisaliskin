@@ -3,6 +3,8 @@
   <div id="badges"><p>📫 How to reach me:</p>
   <a href="https://t.me/lisaliskin">
   <img src="https://img.shields.io/badge/Telegram-pink?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  <a href="https://t.me/lisaliskin">
+  <img src="https://img.shields.io/badge/website-pink?logo=website&logoColor=white&style=for-the-badge" alt="Website Badge"/>
 </div>
 </div>
 
