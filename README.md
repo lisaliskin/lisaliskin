@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+👩🏼‍💻 I’m currently learning JavaScript in Elbrus Bootcamp 
+
+📫 How to reach me:
+https://t.me/liskin_meme
+
+
+
 <!--
 **lisaliskin/lisaliskin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
