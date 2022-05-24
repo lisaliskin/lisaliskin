@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif
+
 👩🏼‍💻 I’m currently learning JavaScript in Elbrus Bootcamp 
 
 📫 How to reach me:
