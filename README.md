@@ -10,7 +10,7 @@
 
 <h4 align="center">👩🏼‍💻 I’m currently learning JavaScript in Elbrus Bootcamp</h4>
     
-    ### :hammer_and_wrench: Languages and Tools :
+    <h3>### :hammer_and_wrench: Languages and Tools :</h3>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
