@@ -3,7 +3,7 @@
 👩🏼‍💻 I’m currently learning JavaScript in Elbrus Bootcamp 
 
 📫 How to reach me:
-https://t.me/liskin_meme
+https://t.me/lisaliskin
 
 
 
