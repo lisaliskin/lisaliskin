@@ -8,9 +8,10 @@
 </div>
 </div>
 
-<h4 align="center">👩🏼‍💻 <My name is Lisa and I'm a Frontend developer /></h4>
-<p>I've been working as a web developer for a year and a half. I am looking for a company with an open, positive corporate culture, where I can create/improve applications with meaning together with the DEV team. ✌🏼
-I like Lego, taking pictures on film camera, making desserts and traveling.<p>
+<h4 align="center">👩🏼‍💻 My name is Lisa and I'm a Frontend developer</h4>
+<p align="center">I've been working as a web developer for a year and a half. I am looking for a company with an open, positive corporate culture, where I can create/improve applications with meaning together with the DEV team. ✌🏼<br></p>
+
+ <p align="center">I like Lego, taking pictures on film camera, making desserts and traveling.</p>
 <h3 align="center">:hammer_and_wrench: Languages and Tools :</h3>
 
 <div align="center">
