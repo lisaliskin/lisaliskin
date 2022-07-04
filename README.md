@@ -8,7 +8,10 @@
 </div>
 </div>
 
-<h4 align="center">👩🏼‍💻 I’m currently learning JavaScript in Elbrus Bootcamp</h4>
+<h4 align="center">👩🏼‍💻 <My name is Lisa and I'm a Frontend developer />
+I've been working as a web developer for a year and a half. I am looking for a company with an open, positive corporate culture, where I can create/improve applications with meaning together with the DEV team. ✌🏼
+
+I like Lego, taking pictures on film camera, making desserts and traveling.</h4>
 <h3 align="center">:hammer_and_wrench: Languages and Tools :</h3>
 
 <div align="center">
